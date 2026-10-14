@@ -1,0 +1,3 @@
+repository "o-ultimo-caso-de-clara-silva/o-ultimo-caso-de-clara-silva@4674031786465@cloud"
+  path "/"
+    smartbranch "/main"
